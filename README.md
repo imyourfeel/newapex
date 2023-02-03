@@ -29,7 +29,7 @@ https://github.com/imyourfeel/newapex.git
 2. Go inside the downloaded folder
 
 ```
-cd myapex
+cd newapex
 ```
 
 3. Compile the code 
