@@ -4,8 +4,8 @@ custom forked from https://github.com/arturzxc/myapex
 Simple C++ cheats for Apex Legends (Linux Steam version).
 
 ### Sense 
-Invisible enemies will be glow with Purple color and if shild is below 10 or almost crack it will turn to Blue
-Visible enemies will be highlighted with Purple color and if shild is below 10 or almost crack it will turn to Blue
+Invisible enemies will be glow with Purple color and if shild is below 10 or almost crack it will turn to Blue.
+Visible enemies will be highlighted with Purple color and if shild is below 10 or almost crack it will turn to Blue.
 
 ### NoRecoil
 Adjustable reduction in vertical and horizontal weapon recoil.
