@@ -8,6 +8,8 @@ Invisible enemies will be glow with Purple color and if shild is below 10 or alm
 
 Visible enemies will be highlighted with Purple color and if shild is below 10 or almost crack it will turn to Blue.
 
+Added items throughwall for easy loot 
+
 ### NoRecoil
 Adjustable reduction in vertical and horizontal weapon recoil.
 
